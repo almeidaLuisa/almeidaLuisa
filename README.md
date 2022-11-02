@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @YmirReiss aka luisa
+- 👋 Hi, I’m @YmirReiss aka Luisa
 - 👀 I’m interested in anything really
-- 🌱 I’m currently learning to code with the cs50 course
-- 💞️ I’m looking to collaborate on... idk i was hoping someone could teach me smth
+- 🌱 I’m currently learning to code on my own
+- 💞️ I’m looking to collaborate on arduino projects
 - 📫 How to reach me - luisalmeida0106@gmail.com
 
 <!---
